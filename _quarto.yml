@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "The [_TBD_] Workshop in Marine Policy"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: 2027 Edition
+      - menu:
+        - about_program.qmd
+        - about_papers.qmd
+      - href: submit.qmd
+        text: Submit
+      - href: register.qmd
+        text: Register
+      - href: about_miami.qmd
+        text: Visiting Miami
+      - href: reach_out.qmd
+        text: Reach out
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
