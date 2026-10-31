@@ -9,12 +9,10 @@ website:
         text: Home
       - text: 2027 Edition
       - menu:
-        - about_program.qmd
-        - about_papers.qmd
-      - href: submit.qmd
-        text: Submit
-      - href: register.qmd
-        text: Register
+        - submit.qmd
+        - register.qmd
+        - program.qmd
+        - papers.qmd
       - href: about_miami.qmd
         text: Visiting Miami
       - href: reach_out.qmd
@@ -23,7 +21,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      # - cosmo
       - brand
     css: styles.css
     toc: true
