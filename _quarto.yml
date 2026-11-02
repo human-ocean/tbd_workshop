@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "The [_TBD_] Workshop in Marine Policy"
+  title: "The [_name TBD_] Workshop in Marine Policy"
   navbar:
     left:
       - href: index.qmd
