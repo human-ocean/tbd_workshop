@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "The [_name TBD_] Workshop in Marine Policy"
+  title: "**The [_name TBD_] Workshop in Marine Policy**"
   navbar:
     left:
       - href: index.qmd
@@ -22,10 +22,19 @@ website:
 format:
   html:
     theme:
-      # - cosmo
-      - brand
+      - cosmo
     css: styles.css
     toc: true
-
-editor: visual
+    fontsize: 1.25rem
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 950px;
+      }
+      .navbar-logo {
+        max-height: 75px;
+      }
+      </style>
 

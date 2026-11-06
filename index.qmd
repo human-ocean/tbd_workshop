@@ -1,6 +1,7 @@
 ---
 title: "The [name _TBD_] Workshop in Marine Policy"
-subtitle: Spring 2027, exact dates TBD
+subtitle: "**April 16-17, 2027**"
+title-block-banner: img/rosenstiel.jpg
 ---
 
 The [Human-Ocean Systems Lab](https://human-ocean-systems.org/) at the University of Miami will host the first \[name _TBD_\] workshop in Marine Policy.
@@ -9,9 +10,10 @@ The [Human-Ocean Systems Lab](https://human-ocean-systems.org/) at the Universit
 
 **Who:** Graduate students, faculty, and researchers from across academia, non-profits, and government agencies working on anything that touches salt water are welcome.
 
-**TBD:**
+**When:** The first edition will take place on April 16-17
 
-- Name for the workshop
-- The precise dates for the workshop
+**TBD:** Name for the workshop. We will vote on it during the first meeting.
 
-Vote on both topics [here](https://forms.gle/RPoPxjCUUWZtkQtd9). It takes \~10 seconds.
+____
+
+Banner image credit: [UM Rosenstiel School, CC BY-SA 4.0, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:University_of_Miami_Rosenstiel_School_on_Virginia_Key,_Florida.jpg){.smaller}
